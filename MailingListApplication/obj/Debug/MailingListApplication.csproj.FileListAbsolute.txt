@@ -1,0 +1,14 @@
+D:\repos\src\MailingListApplication\bin\Debug\MailingListApplication.exe.config
+D:\repos\src\MailingListApplication\bin\Debug\MailingListApplication.exe
+D:\repos\src\MailingListApplication\bin\Debug\MailingListApplication.pdb
+D:\repos\src\MailingListApplication\obj\Debug\MainWindow.g.cs
+D:\repos\src\MailingListApplication\obj\Debug\App.g.cs
+D:\repos\src\MailingListApplication\obj\Debug\MailingListApplication_MarkupCompile.cache
+D:\repos\src\MailingListApplication\obj\Debug\MailingListApplication_MarkupCompile.lref
+D:\repos\src\MailingListApplication\obj\Debug\MainWindow.baml
+D:\repos\src\MailingListApplication\obj\Debug\MailingListApplication.g.resources
+D:\repos\src\MailingListApplication\obj\Debug\MailingListApplication.Properties.Resources.resources
+D:\repos\src\MailingListApplication\obj\Debug\MailingListApplication.csproj.GenerateResource.cache
+D:\repos\src\MailingListApplication\obj\Debug\MailingListApplication.csproj.CoreCompileInputs.cache
+D:\repos\src\MailingListApplication\obj\Debug\MailingListApplication.exe
+D:\repos\src\MailingListApplication\obj\Debug\MailingListApplication.pdb
